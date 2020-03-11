@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dell-chatbot",
+  "private_key_id": "d215f4d0706433567f62ecf27137e85dc04605b8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC23AM2BXmYUbPr\nQbKpUPQyB7ncvLPOZYpI8gIcB/5+o8GLf3GWrujravAIijrIbhGg/ZnHBY3x0DAD\nrS0jddLp8iuloNEhJgJ17jc8Tej8f8OjQVsWX/gbnxEA/qBoHdD4FAyv0v2wVPAl\nM9Fup1ccEg9OFnJGlbh0GDUeDddvyWNN9yQc8kEs0TfPu588GgvsImXZXyvkdt77\n6JKAitgYlas6kMdl5KNCvYEs8VR2Aw/sk02HY7fLEyx30PEwHQWb6iYuHQsSqC+6\nVwuNOxsMLzmETIVYOsIVdYC0dmGFlAR9JuIfJzYyEYsXtGLtRyoR3ETuYIdlrm+x\nuZ6bCVwhAgMBAAECggEAAP0f0dIWAhw3/TbL2uVGisI2r7JABSbQqHwRhZoH9uKX\nDHRuFm7f8MzxWxR3RKfutbiFVTmLFtKFvfFY6AMONshh0smTs+qPExjsiMmRj9L3\niXmUHuL6NhkGOCOIVcPKglrmZil9iG9vJH5bHK5wNsVEuqr9p3LODmemmuDfiDnT\n1bX9lXqDMt0qlfnGMeihLaKF7cacgl/mOh7BQsXR7jQQ65X/QAlQszRRKKVzr3On\nTK4iccBlVOje1cmU/EI5rPRDGS/MWV/1+rLlZjvcrlEzch26nOgX7bNseLIvxGlO\nQRvuKyE0LP5WdLgEIJ8qkbuTidXe6PL2NmeO/t68YQKBgQDfQbfb0XM7TGLrxeE9\nGlkuX70h9UtBVmGZmP6XipcBSqB1ecZiRfnAJ7GHGzxfU9oIOb5VL1kh/ToEY5XP\npt+Ox5FJFDzkEwSjH17cRoJASOILPeriZ30CL2W8ALsX3G6hkxfbTZG93OgiPOlq\na56QLfA+bHLSn4TOPCsGsXCKkQKBgQDRrY78GqomBbtb60CR2861ceHsWuIiu0yN\nKSKYD/2gEN9bv/KEKeTBrjkio+miN61/vKHFOegH0AzP1RS8siygJcCUiXh2Vl+o\nqd5g2OjGaADeOIeT2km+PcJY40u0JM3bQVXkXv7PVFbd7sTxAJaskKaR0Ei7UMZ0\nfwXznkzgkQKBgQDGwpFXaE84mbbvxQnUBmMjQCT32JQZJThbMLRoYgAyLChSrgmK\ncFX7VttcN0k2bUaNUCs9V5v5AKLoSWiUqDIbwVx9PUFApBXazBD99t/7L2ffLk6x\nJgVLLrtZ9ySaB6uOuY/htFtuNv+Li8Ma9ZkDL4LVcGOBVHc9zJ9ZpBtXoQKBgCjX\nElueYffH9AdiWhBO7QNAbE3aIeO78ZwpH/jYXIE56Bd52qXNdyYWZkCOBqq3B48y\n0ZuVvNEQv/4XNdPPLIwA7nLAF/uMtVMnyw24EhbbGRgvkJDG2sg4RUuE8jDjXklP\nf4hczGrbtZPCtw9uGur/vcH2/MOnZxA30ZPzCGxRAoGBAJxR8RAyHFPQrYle1KAo\nP3opeRLG2ohyWG/sQ7oQPLLpw7gjz/cfaarzF+r01Jd7BwHnTlYUvSjLv0c3CiyF\ne0KhKyq9G70/a8eUxEKyoMEEaFvn886gR421QB3wf9HSK5Lq9Zj8HkD+QR48W1Yh\nIxKwY5FOibzbr+a2EuPI/iG9\n-----END PRIVATE KEY-----\n",
+  "client_email": "manoranjanmaharana4@dell-chatbot.iam.gserviceaccount.com",
+  "client_id": "105096171816723464116",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/manoranjanmaharana4%40dell-chatbot.iam.gserviceaccount.com"
+}
